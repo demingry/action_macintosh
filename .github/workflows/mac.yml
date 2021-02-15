@@ -1,4 +1,4 @@
-name: mac1
+name: mac2
 on: 
   workflow_dispatch:
 defaults:
